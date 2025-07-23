@@ -1,0 +1,2 @@
+# a1
+基于zigbee、Android的项目（通过esp8266连接onenet云平台利用zigbee终端采集传感器数据，通过协调器把数据上传到sep8266，最后用android程序把采集到数据信息展示出来）
